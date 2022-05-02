@@ -14,7 +14,7 @@ import random
 # nltk.download('averaged_perceptron_tagger')
 # nltk.download('words')
 
-API_KEY = "sk-ZvdR5aJsBMD79NEQF1ZdzvSDTOUowTBB2DU24S51"
+API_KEY = "your gpt3 api key"
 openai.api_key = API_KEY
 CIRCLED_NUMBER = {1: "①", 2: "②", 3: "③", 4: "④", 5: "⑤"}
 
